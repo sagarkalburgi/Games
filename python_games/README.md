@@ -13,20 +13,20 @@ c) Added a new block and changed the UI
 
 d) Fixed a bug: while moving left, game over if right was pressed and so on.
 
-![Snake Game](/Snake_game/SnakeGame1.JPG)
-![Snake Game](/Snake_game/SnakeGame.JPG)
+![Snake Game](Snake_game/SnakeGame1.JPG)
+![Snake Game](Snake_game/SnakeGame.JPG)
 
 
 ## Car Game
 
-![Car Game](/Car_game/car_game.JPG)
+![Car Game](Car_game/car_game.JPG)
 
 ## Auto Clicker
 
 Using Thresholding and Template Matching 
 
-![Using Template Matching](/Auto_clicker/template_matching.JPG)
+![Using Template Matching](Auto_clicker/template_matching.JPG)
 
 Using pixel values
 
-![Using APIs and pyautogui](/Auto_clicker/optimized.JPG)
+![Using APIs and pyautogui](Auto_clicker/optimized.JPG)
